@@ -11,6 +11,9 @@
 * ![image](https://github.com/user-attachments/assets/84bef88f-1fcc-4822-a70c-e343150b5172)
 * ![image](https://github.com/user-attachments/assets/8c1a6433-c11e-44c4-b894-6c921b098417)
 * ![image](https://github.com/user-attachments/assets/afe2182b-04bd-406e-8b8d-22879118d3da)
+###### Example: 
+![image](https://github.com/user-attachments/assets/eea9bde1-8bb9-4d47-8bf2-ee4ce612d31b)
+* link: `https://drive.google.com/file/d/131Ys9cQCrkE8ea0gBE3eQzOYksxZaqzH/view?usp=sharing`
 * Refs: `https://www.semanticscholar.org/paper/Smart-traffic-management-system-using-Internet-of-Javaid-Sufian/ccafb1bca5c2a47211870b11af2e24e348f05563`
         `https://www.eea.europa.eu/publications/eea-snapshot`
         `https://miovision.com/rapidflow/`
