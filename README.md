@@ -18,4 +18,5 @@
         `https://www.eea.europa.eu/publications/eea-snapshot`
         `https://miovision.com/rapidflow/`
         `https://www.researchgate.net/publication/321067358_Artificial_intelligence_for_traffic_signal_control_based_solely_on_video_images`
+        `https://www.semanticscholar.org/paper/SURTRAC%3A-Scalable-Urban-Traffic-Control-Smith-Barlow/8409ceb8345498c0c5bf71e598db0d6003dea5e8`
   
