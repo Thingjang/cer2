@@ -14,9 +14,10 @@
 ###### Example: 
 ![image](https://github.com/user-attachments/assets/eea9bde1-8bb9-4d47-8bf2-ee4ce612d31b)
 * link: `https://drive.google.com/file/d/131Ys9cQCrkE8ea0gBE3eQzOYksxZaqzH/view?usp=sharing`
-* Refs: `https://www.semanticscholar.org/paper/Smart-traffic-management-system-using-Internet-of-Javaid-Sufian/ccafb1bca5c2a47211870b11af2e24e348f05563`
-        `https://www.eea.europa.eu/publications/eea-snapshot`
-        `https://miovision.com/rapidflow/`
-        `https://www.researchgate.net/publication/321067358_Artificial_intelligence_for_traffic_signal_control_based_solely_on_video_images`
-        `https://www.semanticscholar.org/paper/SURTRAC%3A-Scalable-Urban-Traffic-Control-Smith-Barlow/8409ceb8345498c0c5bf71e598db0d6003dea5e8`
+###### Refs: 
+* `https://www.semanticscholar.org/paper/Smart-traffic-management-system-using-Internet-of-Javaid-Sufian/ccafb1bca5c2a47211870b11af2e24e348f05563`
+* `https://www.eea.europa.eu/publications/eea-snapshot`
+* `https://miovision.com/rapidflow/`
+* `https://www.researchgate.net/publication/321067358_Artificial_intelligence_for_traffic_signal_control_based_solely_on_video_images`
+* `https://www.semanticscholar.org/paper/SURTRAC%3A-Scalable-Urban-Traffic-Control-Smith-Barlow/8409ceb8345498c0c5bf71e598db0d6003dea5e8`
   
