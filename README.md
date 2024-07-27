@@ -4,3 +4,4 @@
 * ![image](https://github.com/user-attachments/assets/80244de5-ad0a-4115-ae92-fed4b8f174f6)
 * ![image](https://github.com/user-attachments/assets/84bef88f-1fcc-4822-a70c-e343150b5172)
 * Refs: `https://www.semanticscholar.org/paper/Smart-traffic-management-system-using-Internet-of-Javaid-Sufian/ccafb1bca5c2a47211870b11af2e24e348f05563`
+        `https://www.eea.europa.eu/publications/eea-snapshot`
