@@ -12,4 +12,5 @@
 * Refs: `https://www.semanticscholar.org/paper/Smart-traffic-management-system-using-Internet-of-Javaid-Sufian/ccafb1bca5c2a47211870b11af2e24e348f05563`
         `https://www.eea.europa.eu/publications/eea-snapshot`
         `https://miovision.com/rapidflow/`
+        `https://www.researchgate.net/publication/321067358_Artificial_intelligence_for_traffic_signal_control_based_solely_on_video_images`
   
