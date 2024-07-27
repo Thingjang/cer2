@@ -1,0 +1,1 @@
+##### This is just an idea - above all, it is very difficult to implement in Vietnam, and it is just an ANN & YOLO to calculate whether the road segment is crowded or not during a certain time of the day.
